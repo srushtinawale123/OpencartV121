@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="OpenCart Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="Master"/>
+        <include name="Sanity"/>
+        <exclude name=""/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testCases.TC_002_LoginTest">
+        <methods>
+          <include name="teadDown"/>
+          <include name="test_Login"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_002_LoginTest -->
+      <class name="testCases.TC_001_AccountRegistrationtTest">
+        <methods>
+          <include name="test_account_Registration"/>
+          <include name="teadDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_001_AccountRegistrationtTest -->
+    </classes>
+  </test> <!-- OpenCart Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
