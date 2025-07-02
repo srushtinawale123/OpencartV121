@@ -1,158 +1,48 @@
-2025-07-01 00:07:51 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\srushti12\Desktop\Selenium\OpencartV121\master.xml
-
-2025-07-01 00:07:53 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
-2025-07-01 00:07:54 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
-2025-07-01 00:07:54 INFO  TC_001_AccountRegistrationtTest:22 - Clicked on Register 
-2025-07-01 00:07:54 INFO  TC_001_AccountRegistrationtTest:27 - Provided First Name 
-2025-07-01 00:07:54 INFO  TC_001_AccountRegistrationtTest:30 - Provided Last Name 
-2025-07-01 00:07:54 INFO  TC_001_AccountRegistrationtTest:34 - Provided Email 
-2025-07-01 00:07:54 INFO  TC_001_AccountRegistrationtTest:37 - Provided Telephone 
-2025-07-01 00:07:54 INFO  TC_001_AccountRegistrationtTest:40 - Provided Password 
-2025-07-01 00:07:55 INFO  TC_001_AccountRegistrationtTest:43 - Provided Confrmed Password 
-2025-07-01 00:07:55 INFO  TC_001_AccountRegistrationtTest:46 - Set Privacy Policy 
-2025-07-01 00:07:55 INFO  TC_001_AccountRegistrationtTest:49 - Clicked on Continue 
-2025-07-01 00:07:58 INFO  TC_001_AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
-2025-07-01 00:07:59 INFO  TC_002_LoginTest:23 - Strating TC_001_AccountRegistrationtTest
-2025-07-01 00:08:00 INFO  TC_002_LoginTest:27 - Clicked on My Account 
-2025-07-01 00:08:00 INFO  TC_002_LoginTest:30 - Clicked on Register 
-2025-07-01 00:08:00 INFO  TC_002_LoginTest:35 - Provided First Name 
-2025-07-01 00:08:00 INFO  TC_002_LoginTest:38 - Provided Last Name 
-2025-07-01 00:08:00 INFO  TC_002_LoginTest:42 - Provided Email 
-2025-07-01 00:08:00 INFO  TC_002_LoginTest:45 - Provided Telephone 
-2025-07-01 00:08:00 INFO  TC_002_LoginTest:48 - Provided Password 
-2025-07-01 00:08:00 INFO  TC_002_LoginTest:51 - Provided Confrmed Password 
-2025-07-01 00:08:00 INFO  TC_002_LoginTest:54 - Set Privacy Policy 
-2025-07-01 00:08:01 INFO  TC_002_LoginTest:57 - Clicked on Continue 
-2025-07-01 00:08:03 INFO  TC_002_LoginTest:69 - Finished TC_001_AccountRegistrationtTest
-2025-07-01 00:09:58 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\srushti12\Desktop\Selenium\OpencartV121\master.xml
-
-2025-07-01 00:10:00 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
-2025-07-01 00:10:01 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
-2025-07-01 00:10:02 INFO  TC_001_AccountRegistrationtTest:22 - Clicked on Register 
-2025-07-01 00:10:02 INFO  TC_001_AccountRegistrationtTest:27 - Provided First Name 
-2025-07-01 00:10:02 INFO  TC_001_AccountRegistrationtTest:30 - Provided Last Name 
-2025-07-01 00:10:02 INFO  TC_001_AccountRegistrationtTest:34 - Provided Email 
-2025-07-01 00:10:02 INFO  TC_001_AccountRegistrationtTest:37 - Provided Telephone 
-2025-07-01 00:10:02 INFO  TC_001_AccountRegistrationtTest:40 - Provided Password 
-2025-07-01 00:10:02 INFO  TC_001_AccountRegistrationtTest:43 - Provided Confrmed Password 
-2025-07-01 00:10:02 INFO  TC_001_AccountRegistrationtTest:46 - Set Privacy Policy 
-2025-07-01 00:10:05 INFO  TC_001_AccountRegistrationtTest:49 - Clicked on Continue 
-2025-07-01 00:10:07 INFO  TC_001_AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
-2025-07-01 00:10:09 INFO  TC_002_LoginTest:23 - Strating TC_001_AccountRegistrationtTest
-2025-07-01 00:10:09 INFO  TC_002_LoginTest:27 - Clicked on My Account 
-2025-07-01 00:10:10 INFO  TC_002_LoginTest:30 - Clicked on Register 
-2025-07-01 00:10:10 INFO  TC_002_LoginTest:35 - Provided First Name 
-2025-07-01 00:10:10 INFO  TC_002_LoginTest:38 - Provided Last Name 
-2025-07-01 00:10:10 INFO  TC_002_LoginTest:42 - Provided Email 
-2025-07-01 00:10:10 INFO  TC_002_LoginTest:45 - Provided Telephone 
-2025-07-01 00:10:10 INFO  TC_002_LoginTest:48 - Provided Password 
-2025-07-01 00:10:10 INFO  TC_002_LoginTest:51 - Provided Confrmed Password 
-2025-07-01 00:10:10 INFO  TC_002_LoginTest:54 - Set Privacy Policy 
-2025-07-01 00:10:11 INFO  TC_002_LoginTest:57 - Clicked on Continue 
-2025-07-01 00:10:13 INFO  TC_002_LoginTest:69 - Finished TC_001_AccountRegistrationtTest
-2025-07-01 13:15:49 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\srushti12\Desktop\Selenium\OpencartV121\master.xml
-
-2025-07-01 13:16:06 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\srushti12\Desktop\Selenium\OpencartV121\master.xml
-
-2025-07-01 13:17:34 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\srushti12\Desktop\Selenium\OpencartV121\master.xml
-
-2025-07-01 13:18:39 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\srushti12\Desktop\Selenium\OpencartV121\master.xml
-
-2025-07-01 13:20:06 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\srushti12\Desktop\Selenium\OpencartV121\master.xml
-
-2025-07-01 13:29:26 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\srushti12\Desktop\Selenium\OpencartV121\master.xml
-
-2025-07-01 14:04:32 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\srushti12\Desktop\Selenium\OpencartV121\ grid-Docker.xml
-
-2025-07-01 14:04:38 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
-2025-07-01 14:04:38 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
-2025-07-01 14:04:39 INFO  TC_001_AccountRegistrationtTest:22 - Clicked on Register 
-2025-07-01 14:04:39 INFO  TC_001_AccountRegistrationtTest:27 - Provided First Name 
-2025-07-01 14:04:39 INFO  TC_001_AccountRegistrationtTest:30 - Provided Last Name 
-2025-07-01 14:04:39 INFO  TC_001_AccountRegistrationtTest:34 - Provided Email 
-2025-07-01 14:04:39 INFO  TC_001_AccountRegistrationtTest:37 - Provided Telephone 
-2025-07-01 14:04:39 INFO  TC_001_AccountRegistrationtTest:40 - Provided Password 
-2025-07-01 14:04:40 INFO  TC_001_AccountRegistrationtTest:43 - Provided Confrmed Password 
-2025-07-01 14:04:40 INFO  TC_001_AccountRegistrationtTest:46 - Set Privacy Policy 
-2025-07-01 14:04:41 INFO  TC_001_AccountRegistrationtTest:49 - Clicked on Continue 
-2025-07-01 14:04:43 INFO  TC_001_AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
-2025-07-01 14:04:45 INFO  TC_002_LoginTest:23 - Strating TC_001_AccountRegistrationtTest
-2025-07-01 14:04:45 INFO  TC_002_LoginTest:27 - Clicked on My Account 
-2025-07-01 14:04:46 INFO  TC_002_LoginTest:30 - Clicked on Register 
-2025-07-01 14:04:46 INFO  TC_002_LoginTest:35 - Provided First Name 
-2025-07-01 14:04:46 INFO  TC_002_LoginTest:38 - Provided Last Name 
-2025-07-01 14:04:46 INFO  TC_002_LoginTest:42 - Provided Email 
-2025-07-01 14:04:46 INFO  TC_002_LoginTest:45 - Provided Telephone 
-2025-07-01 14:04:46 INFO  TC_002_LoginTest:48 - Provided Password 
-2025-07-01 14:04:46 INFO  TC_002_LoginTest:51 - Provided Confrmed Password 
-2025-07-01 14:04:46 INFO  TC_002_LoginTest:54 - Set Privacy Policy 
-2025-07-01 14:04:47 INFO  TC_002_LoginTest:57 - Clicked on Continue 
-2025-07-01 14:04:49 INFO  TC_002_LoginTest:69 - Finished TC_001_AccountRegistrationtTest
-2025-07-01 14:04:58 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
-2025-07-01 14:04:58 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
-2025-07-01 14:04:59 INFO  TC_001_AccountRegistrationtTest:22 - Clicked on Register 
-2025-07-01 14:04:59 INFO  TC_001_AccountRegistrationtTest:27 - Provided First Name 
-2025-07-01 14:04:59 INFO  TC_001_AccountRegistrationtTest:30 - Provided Last Name 
-2025-07-01 14:04:59 INFO  TC_001_AccountRegistrationtTest:34 - Provided Email 
-2025-07-01 14:04:59 INFO  TC_001_AccountRegistrationtTest:37 - Provided Telephone 
-2025-07-01 14:04:59 INFO  TC_001_AccountRegistrationtTest:40 - Provided Password 
-2025-07-01 14:04:59 INFO  TC_001_AccountRegistrationtTest:43 - Provided Confrmed Password 
-2025-07-01 14:04:59 INFO  TC_001_AccountRegistrationtTest:46 - Set Privacy Policy 
-2025-07-01 14:05:04 INFO  TC_001_AccountRegistrationtTest:49 - Clicked on Continue 
-2025-07-01 19:48:07 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
-2025-07-01 19:48:08 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
-2025-07-01 19:48:08 INFO  TC_001_AccountRegistrationtTest:22 - Clicked on Register 
-2025-07-01 19:48:08 INFO  TC_001_AccountRegistrationtTest:27 - Provided First Name 
-2025-07-01 19:48:09 INFO  TC_001_AccountRegistrationtTest:30 - Provided Last Name 
-2025-07-01 19:48:09 INFO  TC_001_AccountRegistrationtTest:34 - Provided Email 
-2025-07-01 19:48:09 INFO  TC_001_AccountRegistrationtTest:37 - Provided Telephone 
-2025-07-01 19:48:09 INFO  TC_001_AccountRegistrationtTest:40 - Provided Password 
-2025-07-01 19:48:09 INFO  TC_001_AccountRegistrationtTest:43 - Provided Confrmed Password 
-2025-07-01 19:48:09 INFO  TC_001_AccountRegistrationtTest:46 - Set Privacy Policy 
-2025-07-01 19:48:10 INFO  TC_001_AccountRegistrationtTest:49 - Clicked on Continue 
-2025-07-01 19:48:12 INFO  TC_001_AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
-2025-07-01 19:48:14 INFO  TC_002_LoginTest:23 - Strating TC_001_AccountRegistrationtTest
-2025-07-01 19:48:15 INFO  TC_002_LoginTest:27 - Clicked on My Account 
-2025-07-01 19:48:15 INFO  TC_002_LoginTest:30 - Clicked on Register 
-2025-07-01 19:48:16 INFO  TC_002_LoginTest:35 - Provided First Name 
-2025-07-01 19:48:16 INFO  TC_002_LoginTest:38 - Provided Last Name 
-2025-07-01 19:48:16 INFO  TC_002_LoginTest:42 - Provided Email 
-2025-07-01 19:48:16 INFO  TC_002_LoginTest:45 - Provided Telephone 
-2025-07-01 19:48:16 INFO  TC_002_LoginTest:48 - Provided Password 
-2025-07-01 19:48:16 INFO  TC_002_LoginTest:51 - Provided Confrmed Password 
-2025-07-01 19:48:16 INFO  TC_002_LoginTest:54 - Set Privacy Policy 
-2025-07-01 19:48:17 INFO  TC_002_LoginTest:57 - Clicked on Continue 
-2025-07-01 19:48:19 INFO  TC_002_LoginTest:69 - Finished TC_001_AccountRegistrationtTest
-2025-07-01 20:00:02 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
-2025-07-01 20:00:02 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
-2025-07-01 20:00:04 INFO  TC_001_AccountRegistrationtTest:22 - Clicked on Register 
-2025-07-01 20:00:04 INFO  TC_001_AccountRegistrationtTest:27 - Provided First Name 
-2025-07-01 20:00:04 INFO  TC_001_AccountRegistrationtTest:30 - Provided Last Name 
-2025-07-01 20:00:04 INFO  TC_001_AccountRegistrationtTest:34 - Provided Email 
-2025-07-01 20:00:04 INFO  TC_001_AccountRegistrationtTest:37 - Provided Telephone 
-2025-07-01 20:00:04 INFO  TC_001_AccountRegistrationtTest:40 - Provided Password 
-2025-07-01 20:00:04 INFO  TC_001_AccountRegistrationtTest:43 - Provided Confrmed Password 
-2025-07-01 20:00:04 INFO  TC_001_AccountRegistrationtTest:46 - Set Privacy Policy 
-2025-07-01 20:00:05 INFO  TC_001_AccountRegistrationtTest:49 - Clicked on Continue 
-2025-07-01 20:00:07 INFO  TC_001_AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
-2025-07-01 20:00:11 INFO  TC_002_LoginTest:23 - Strating TC_001_AccountRegistrationtTest
-2025-07-01 20:00:11 INFO  TC_002_LoginTest:27 - Clicked on My Account 
-2025-07-01 20:00:11 INFO  TC_002_LoginTest:30 - Clicked on Register 
-2025-07-01 20:00:12 INFO  TC_002_LoginTest:35 - Provided First Name 
-2025-07-01 20:00:12 INFO  TC_002_LoginTest:38 - Provided Last Name 
-2025-07-01 20:00:12 INFO  TC_002_LoginTest:42 - Provided Email 
-2025-07-01 20:00:12 INFO  TC_002_LoginTest:45 - Provided Telephone 
-2025-07-01 20:00:12 INFO  TC_002_LoginTest:48 - Provided Password 
-2025-07-01 20:00:12 INFO  TC_002_LoginTest:51 - Provided Confrmed Password 
-2025-07-01 20:00:12 INFO  TC_002_LoginTest:54 - Set Privacy Policy 
-2025-07-01 20:00:13 INFO  TC_002_LoginTest:57 - Clicked on Continue 
-2025-07-01 20:00:15 INFO  TC_002_LoginTest:69 - Finished TC_001_AccountRegistrationtTest
+2025-07-02 06:54:10 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2025-07-02 06:54:11 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
+2025-07-02 06:54:11 INFO  TC_001_AccountRegistrationtTest:22 - Clicked on Register 
+2025-07-02 06:54:11 INFO  TC_001_AccountRegistrationtTest:27 - Provided First Name 
+2025-07-02 06:54:11 INFO  TC_001_AccountRegistrationtTest:30 - Provided Last Name 
+2025-07-02 06:54:11 INFO  TC_001_AccountRegistrationtTest:34 - Provided Email 
+2025-07-02 06:54:11 INFO  TC_001_AccountRegistrationtTest:37 - Provided Telephone 
+2025-07-02 06:54:11 INFO  TC_001_AccountRegistrationtTest:40 - Provided Password 
+2025-07-02 06:54:12 INFO  TC_001_AccountRegistrationtTest:43 - Provided Confrmed Password 
+2025-07-02 06:54:12 INFO  TC_001_AccountRegistrationtTest:46 - Set Privacy Policy 
+2025-07-02 06:54:13 INFO  TC_001_AccountRegistrationtTest:49 - Clicked on Continue 
+2025-07-02 06:54:15 INFO  TC_001_AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2025-07-02 06:54:17 INFO  TC_002_LoginTest:23 - Strating TC_001_AccountRegistrationtTest
+2025-07-02 06:54:17 INFO  TC_002_LoginTest:27 - Clicked on My Account 
+2025-07-02 06:54:18 INFO  TC_002_LoginTest:30 - Clicked on Register 
+2025-07-02 06:54:18 INFO  TC_002_LoginTest:35 - Provided First Name 
+2025-07-02 06:54:18 INFO  TC_002_LoginTest:38 - Provided Last Name 
+2025-07-02 06:54:18 INFO  TC_002_LoginTest:42 - Provided Email 
+2025-07-02 06:54:18 INFO  TC_002_LoginTest:45 - Provided Telephone 
+2025-07-02 06:54:18 INFO  TC_002_LoginTest:48 - Provided Password 
+2025-07-02 06:54:18 INFO  TC_002_LoginTest:51 - Provided Confrmed Password 
+2025-07-02 06:54:18 INFO  TC_002_LoginTest:54 - Set Privacy Policy 
+2025-07-02 06:54:19 INFO  TC_002_LoginTest:57 - Clicked on Continue 
+2025-07-02 06:54:21 INFO  TC_002_LoginTest:69 - Finished TC_001_AccountRegistrationtTest
+2025-07-02 06:58:53 INFO  TC_001_AccountRegistrationtTest:15 - Strating TC_001_AccountRegistrationtTest
+2025-07-02 06:58:53 INFO  TC_001_AccountRegistrationtTest:19 - Clicked on My Account 
+2025-07-02 06:58:54 INFO  TC_001_AccountRegistrationtTest:22 - Clicked on Register 
+2025-07-02 06:58:54 INFO  TC_001_AccountRegistrationtTest:27 - Provided First Name 
+2025-07-02 06:58:54 INFO  TC_001_AccountRegistrationtTest:30 - Provided Last Name 
+2025-07-02 06:58:54 INFO  TC_001_AccountRegistrationtTest:34 - Provided Email 
+2025-07-02 06:58:54 INFO  TC_001_AccountRegistrationtTest:37 - Provided Telephone 
+2025-07-02 06:58:54 INFO  TC_001_AccountRegistrationtTest:40 - Provided Password 
+2025-07-02 06:58:55 INFO  TC_001_AccountRegistrationtTest:43 - Provided Confrmed Password 
+2025-07-02 06:58:55 INFO  TC_001_AccountRegistrationtTest:46 - Set Privacy Policy 
+2025-07-02 06:58:56 INFO  TC_001_AccountRegistrationtTest:49 - Clicked on Continue 
+2025-07-02 06:58:58 INFO  TC_001_AccountRegistrationtTest:61 - Finished TC_001_AccountRegistrationtTest
+2025-07-02 06:59:00 INFO  TC_002_LoginTest:23 - Strating TC_001_AccountRegistrationtTest
+2025-07-02 06:59:00 INFO  TC_002_LoginTest:27 - Clicked on My Account 
+2025-07-02 06:59:01 INFO  TC_002_LoginTest:30 - Clicked on Register 
+2025-07-02 06:59:01 INFO  TC_002_LoginTest:35 - Provided First Name 
+2025-07-02 06:59:01 INFO  TC_002_LoginTest:38 - Provided Last Name 
+2025-07-02 06:59:01 INFO  TC_002_LoginTest:42 - Provided Email 
+2025-07-02 06:59:01 INFO  TC_002_LoginTest:45 - Provided Telephone 
+2025-07-02 06:59:01 INFO  TC_002_LoginTest:48 - Provided Password 
+2025-07-02 06:59:01 INFO  TC_002_LoginTest:51 - Provided Confrmed Password 
+2025-07-02 06:59:02 INFO  TC_002_LoginTest:54 - Set Privacy Policy 
+2025-07-02 06:59:03 INFO  TC_002_LoginTest:57 - Clicked on Continue 
+2025-07-02 06:59:05 INFO  TC_002_LoginTest:69 - Finished TC_001_AccountRegistrationtTest
